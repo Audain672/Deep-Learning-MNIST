@@ -1,6 +1,4 @@
-import os
 import numpy as np
-import tensorflow as tf
 from tensorflow import keras
 from flask import Flask, request, jsonify
 
@@ -53,4 +51,4 @@ def predict():
         return jsonify({"error": f"Erreur lors de la prédiction: {str(e)}"}), 500
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
