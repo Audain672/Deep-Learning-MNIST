@@ -40,6 +40,7 @@ Ce projet propose un cycle complet pour concevoir, entraîner, suivre, exposer e
 ### 1. Cloner le dépôt
 
 git clone https://github.com/Audain672/Deep-Learning-MNIST.git
+
 cd Deep-Learning-MNIST
 
 
