@@ -134,8 +134,8 @@ CMD ["python", "app.py"]
 
 ## Liens utiles
 
-- [Dépôt GitHub principal](https://github.com/Audain672/Deep-Learning-MNIST)
-- [Exercices TP](https://github.com/Audain672)
+- [Dépôt GitHub principal](https://github.com/Audain672)
+- [Exercices TP](https://github.com/Audain672/Deep-Learning-MNIST)
 
 ---
 
